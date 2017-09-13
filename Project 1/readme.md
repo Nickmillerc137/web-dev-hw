@@ -35,3 +35,5 @@ Here is a link to the [University of Montana WEBSITE](http://www.umt.edu)
 **SCREENSHOT**
 
 ![Screenshot Of my Directory](./images/screenshot-1.png)
+
+Another line of text.
